@@ -84,7 +84,7 @@
     background:#41d4d9;
     padding:5px;
   }
-  img{
+  .card-image{
     height:200px;
     padding:10px;
     display: block;
@@ -377,7 +377,7 @@
 
   <!-- ======= Footer ======= -->
   @include('footer')
-    <!-- End Footer -->
+  <!-- End Footer -->
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
