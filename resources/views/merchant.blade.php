@@ -1,7 +1,7 @@
 <section id="merchant" class="merchant">
   <div class="container">
     <div class="row no-gutters">
-      <div class="col-xl-8 d-flex align-items-stretch order-2 order-lg-1">
+      <div class="col-xl-6 d-flex align-items-stretch order-2 order-lg-1">
         <div class="content d-flex flex-column justify-content-center">
           <div class="row">
             <div class="section-title">
@@ -18,8 +18,10 @@
           </div>
         </div>
       </div>
+      <div class="col-xl-2 d-flex align-items-stretch order-2 order-lg-1">
+      </div>
       <div class="image col-xl-4 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-        <img src="assets/img/about.png" class="img-fluid" alt="">
+        <img src="assets/img/details-1.png" class="img-fluid" alt="">
       </div>
     </div>
   </div>

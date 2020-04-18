@@ -1,7 +1,7 @@
 <section id="about" class="about">
   <div class="container">
     <div class="row no-gutters">
-      <div class="col-xl-7 d-flex align-items-stretch order-2 order-lg-1">
+      <div class="col-xl-6 d-flex align-items-stretch order-2 order-lg-1">
         <div class="content d-flex flex-column justify-content-center">
           <div class="row">
             <div class="section-title">
@@ -17,6 +17,7 @@
           </div>
         </div>
       </div>
+      <div class="col-xl-1 d-flex align-items-stretch order-2 order-lg-1"></div>
       <div class="image col-xl-5 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
         <img src="assets/img/about.png" class="img-fluid" alt="">
       </div>
