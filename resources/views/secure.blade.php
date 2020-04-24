@@ -9,7 +9,7 @@
                 <div class="row">
                 <ol>
                     <div class="side">
-                    <h4><i style="color: white; padding-top: 2px;" class="bx bx-lock"></i></h4>
+                    <h4><i style="color: white; padding-top: 3px; padding-left:1px;" class="bx bx-lock" ></i></h4>
                     </div>
                 </ol>
                 <h5 style="padding-top: 5px;"><strong>&nbsp;Kode PIN & OTP</strong></h5>
@@ -22,7 +22,7 @@
                 <div class="row">
                 <ol>
                     <div class="side">
-                    <h4><i style="color: white; padding-top: 2px;" class="bx bx-medal"></i></h4>
+                    <h4><i style="color: white; padding-top: 3px; padding-left:1px;" class="bx bx-medal"></i></h4>
                     </div>
                 </ol>
                 <h5 style="padding-top: 5px;"><strong>&nbsp;Garansi 100%</strong></h5>
@@ -36,7 +36,7 @@
                 <div class="row">
                 <ol>
                     <div class="side">
-                    <h4><i style="color: white; padding-top: 2px;" class="bx bx-barcode"></i></h4>
+                    <h4><i style="color: white; padding-top: 3px; padding-left:1px;" class="bx bx-barcode"></i></h4>
                     </div>
                 </ol>
                 <h5 style="padding-top: 5px;"><strong>&nbsp;Kode QR</strong></h5>
@@ -49,7 +49,7 @@
                 <div class="row">
                 <ol>
                     <div class="side">
-                    <h4><i style="color: white; padding-top: 2px;" class="bx bx-shield"></i></h4>
+                    <h4><i style="color: white; padding-top: 3px; padding-left:1px;" class="bx bx-shield"></i></h4>
                     </div>
                 </ol>
                 <h5 style="padding-top: 5px;"><strong>&nbsp;Sistem Keamanan</strong></h5>

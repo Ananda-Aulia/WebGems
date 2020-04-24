@@ -12,6 +12,8 @@
   <!-- Favicons -->
   <link href="assets/img/icon.png" rel="icon">
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+  <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/dist/boxicons.js' rel='stylesheet'>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -52,7 +54,7 @@
     width: 100%;
   }
   .side{
-    background: rgb(169, 221, 250);
+    background: #39afb5;
     height: 30px;
     width: 30px;
     border-radius: 20px;

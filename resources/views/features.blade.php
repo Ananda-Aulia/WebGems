@@ -3,8 +3,7 @@
 
         <div class="section-title">
           <h2>Features</h2>
-          <h5><p>Nikmati fitur dan keuntungan yang mitra gems hadirkan untuk
-            mengembangkan bisnis anda.</p></h5>
+          <h5><p>Nikmati fitur dan keuntungan transaksi anda bersama GEMS.</p></h5>
         </div>
 
         <div class="row no-gutters">
@@ -12,41 +11,31 @@
             <div class="content d-flex flex-column justify-content-center">
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
-                  <i class="bx bx-receipt"></i>
-                  <h4>Pembayaran</h4>
-                  <p>Pembayaran lebih
-                    mudah,cepat dan aman
-                    bagi pelanggan.</p>
+                  <i class="bx bx-money" style="color:#39afb5"></i>
+                  <h4>Top Up</h4>
+                  <p>Nikmati kemudahan pengisian saldo dengan berbagai pilihan bank.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <i class="bx bx-file"></i>
-                  <h4>Dokumentasi</h4>
-                  <p>Pencatatan transaksi
-                    yang akurat sehingga
-                    meminimalisir resiko
-                    pekerjaan</p>
+                  <i class="bx bx-transfer" style="color:#39afb5"></i>
+                  <h4>Transfer</h4>
+                  <p>Transaksi lebih
+                    mudah,cepat dan aman
+                    bagi pelanggan dengan berbagai pilihan bank.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-search-alt"></i>
-                  <h4>Analisa</h4>
-                  <p>Pendukungan
-                    pengelolaan operational
-                    dan analisa penjualan.</p>
+                  <i class="bx bx-calculator" style="color:#39afb5"></i>
+                  <h4>Budgeting</h4>
+                  <p>Atur pengeluaran saldo anda sesuai yang anda inginkan.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-medal"></i>
-                  <h4>Promosi</h4>
-                  <p>Naikkan penjualan
-                    dengan program
-                    promosi yang menarik
-                    bisnis anda</p>
+                  <i class="bx bx-network-chart" style="color:#39afb5"></i>
+                  <h4>Multichannel</h4>
+                  <p>Gunakan metode pembayaran hanya dengan menggunakan smartwatch anda.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                  <i class="bx bx-edit"></i>
-                  <h4>Pendaftaran</h4>
-                  <p>Proses pendaftaran yang
-                  mudah untuk semua
-                  pemilik bisnis.</p>
+                  <i class="bx bx-medal" style="color:#39afb5"></i>
+                  <h4>Promo</h4>
+                  <p>Nikmati setiap promo spesial yang ditawarkan.</p>
                 </div>
               </div>
             </div>

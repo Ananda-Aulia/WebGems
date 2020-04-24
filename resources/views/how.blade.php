@@ -85,7 +85,7 @@
     padding:5px;
   }
   .card-image{
-    height: 200px;
+    height: 200px !important;
     padding:10px;
     display: block;
     margin-left: auto;
@@ -334,7 +334,7 @@
               <a data-toggle="collapse" href="#accordion-list-5" class="collapsed"><center>Deals</center><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-5" class="collapse" data-parent=".accordion-list">
                 <div class="row">
-                  <div class="col s12 m1">
+                  <div class="col-xs-6 col-sm-3">
                     <div class="card">
                       <div class="card-image">
                         <img src="assets/img/Tutorial/Deals/1.png">
@@ -345,7 +345,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col s12 m1">
+                  <div class="col-xs-6 col-sm-3">
                     <div class="card">
                       <div class="card-image">
                         <img src="assets/img/Tutorial/Deals/22.png">
@@ -356,7 +356,7 @@
                       </div>
                     </div>
                 </div>
-                <div class="col s12 m1">
+                <div class="col-xs-6 col-sm-3">
                     <div class="card">
                       <div class="card-image">
                         <img src="assets/img/Tutorial/Deals/3.png">
@@ -367,7 +367,7 @@
                       </div>
                     </div>
                 </div>
-                <div class="col s12 m1">
+                <div class="col-xs-6 col-sm-3">
                   <div class="card">
                     <div class="card-image">
                       <img src="assets/img/Tutorial/Deals/4.png">
