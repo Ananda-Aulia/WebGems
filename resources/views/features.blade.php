@@ -30,7 +30,7 @@
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-network-chart" style="color:#39afb5"></i>
                   <h4>Multichannel</h4>
-                  <p>Gunakan metode pembayaran hanya dengan menggunakan smartwatch anda.</p>
+                  <p>Multi koneksi ke perangkat lainnya untuk transaksi yg lebih mudah dan cepat.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="bx bx-medal" style="color:#39afb5"></i>
