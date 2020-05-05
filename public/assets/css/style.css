@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #5777ba;
+  color: white;
 }
 
 .mobile-nav {
@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background-image: linear-gradient(aqua, teal);
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -266,14 +266,16 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #47536e;
+  color: white;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
+  text-align: center;
+  font-weight:bold;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #5777ba;
+  color: rgb(0, 153, 255);
   text-decoration: none;
 }
 
@@ -449,7 +451,6 @@ section {
 .section-title h2 {
   font-size: 32px;
   font-weight: 400;
-  margin-bottom: 20px;
   padding-bottom: 0;
   color: #39afb5;
   font-family: "Poppins", sans-serif;
@@ -458,7 +459,6 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
-
 /*--------------------------------------------------------------
 # App Features
 --------------------------------------------------------------*/

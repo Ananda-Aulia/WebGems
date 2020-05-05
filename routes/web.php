@@ -32,3 +32,7 @@ Route::get('/faq', function () {
 Route::get('/how', function () {
     return view('how');
 });
+
+Route::get('/mterms', function () {
+    return view('mterms');
+});

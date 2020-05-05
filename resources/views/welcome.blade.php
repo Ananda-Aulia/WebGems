@@ -87,20 +87,24 @@
     <!-- End App Features Section -->
 
     <!-- ======= About Section ======= -->
-    @include('about')
+    <!-- @include('about') -->
     <!-- End About Section -->
 
     <!-- ======= Secure Section ======= -->
     @include('secure')
     <!-- End Secure Section -->
 
-    <!-- ======= Merchant Section ======= -->
-    @include('merchant')
-    <!-- End Merchant Section -->
+    <!-- ======= Mitra Section ======= -->
+    @include('mitra')
+    <!-- End Mitra Section -->
 
-    <!-- ======= Merchant Section ======= -->
+    <!-- ======= Career Section ======= -->
+    <!-- @include('career') -->
+    <!-- End Career Section -->
+
+    <!-- ======= Partner Section ======= -->
     @include('partner')
-    <!-- End Merchant Section -->
+    <!-- End Partner Section -->
 
     <!-- ======= Footer ======= -->
     @include('footer')

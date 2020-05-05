@@ -13,7 +13,6 @@
               secara digital, baik online maupun offline
               agar dapat berjalan dengan cepat, praktis,
               efesien dan tetap terjamin keamanannya. </p>
-              <button type="button" class="btn btn-outline" style="color:#39afb5; border-color: #39afb5;">Selengkapnya</button>
           </div>
         </div>
       </div>

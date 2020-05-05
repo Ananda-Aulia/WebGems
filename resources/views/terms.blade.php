@@ -149,7 +149,7 @@
               <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><center>Kebijakan Privasi</center><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
                 <p>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GEMS sangat menjunjung tinggi hal-hal yang berkenaan dengan perlindungan privasi Anda. Oleh karena itu, Kami membuat kebijakan privasi ini untuk menjelaska kepada anda bagaimana Kami PT. Gerbang Emas Makmur, mengumpulkan dan menggunakan Data Pribadi Anda. Kami hanya mengumpulkan data yang penting bagi kami selama di butuhkan sesuain dengan kebijakan privasi yang kami buat.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GEMS sangat menjunjung tinggi hal-hal yang berkenaan dengan perlindungan privasi Anda. Oleh karena itu, Kami membuat kebijakan privasi ini untuk menjelaskan kepada anda bagaimana Kami PT. Gerbang Emas Makmur Sentosa, mengumpulkan dan menggunakan Data Pribadi Anda. Kami hanya mengumpulkan data yang penting bagi kami selama di butuhkan sesuai dengan kebijakan privasi yang kami buat.
                     <br><br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kami akan menjamin bahwa data pengguna yang di kumpulkan atau terkumpul oleh kami akan disimpan dengan aman dan akan menyimpan data anda selama di perlukan untuk memenuhi syarat dan ketentuan dari kebijakan privasi, yang anda sampaikan kepada kami dengan melengkapi data profil yang mencakup : nama lengkap, nomor kartu identitas, tanggal lahir, alamat surat elektronik (e-mail), nomor telepon genggam (handphone), termasuk pada ip address, informasi lokasi, data perangkat anda (IMEI pada perangkat), data yang menyangkut kegiatan transaksi pada aplikasi GEMS dan data lainnya yang tergolong sebagai data pribadi.
                 </p>
@@ -260,7 +260,7 @@
                             <li>Jika diminta secara resmi oleh pengguna aplikasi GEMS. Dilakukan secara sepihak oleh GEMS di karenakan terdapat suatu indikasi pelanggaran terhadap hukum dan ketentuan yang berlaku sehingga akun harus segera di blokir dengan atau tanpa pemberitahuan terlebih dahulu kepada pengguna apabila terjadi hal sebagaimana di sebutkan di bawah ini :</li>
                             <ol type="a">
                             <li>Jika pengguna Melakukan pelanggaran terhadap satu atau lebih Syarat dan Ketentuan Pengguna.</li>
-                            <li>Jika tedapat indikasi penyalahgunaan untuk kegiatan yang melanggar hukum.</li>
+                            <li>Jika terdapat indikasi penyalahgunaan untuk kegiatan yang melanggar hukum.</li>
                             <li>Jika adanya permintaan dari otoritas negara atau otoritas penegak hukum yang berwenang</li>
                             <li>Jika Pengguna memberikan data/informasi dan keterangan yang tidak benar pada saat melakukan pedaftaran atau selama menggunakan aplikasi GEMS.</li>
                             <li>Apabila GEMS berdasarkan pertimbangannya yang cukup berasalan kuat sehingga Akun dianggap perlu di blokir.</li>
@@ -274,7 +274,7 @@
               <a data-toggle="collapse" href="#accordion-list-11" class="collapsed"><center>Informasi dan Pengaduan</center><i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-11" class="collapse" data-parent=".accordion-list">
                 <p>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengguna dapat mengajukan pertanyaan seputar layanan Aplikasi GEMS atau menyampaikan keluhan atas layanan atau transaksi dengan menghubungi Layanan Pelanggan (Customer Service) GEMS dengan mengirimkan email ke cs@GEMS.id.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengguna dapat mengajukan pertanyaan seputar layanan Aplikasi GEMS atau menyampaikan keluhan atas layanan atau transaksi dengan menghubungi Layanan Pelanggan (Customer Service) GEMS dengan mengirimkan email ke cs@gems.id.
                     <br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pengguna juga dapat melihat informasi tentang penggunaan layanan GEMS Bersama dengan promosi-promosi yang sedang berjalan secara langsung di aplikasi GEMS atau situs website GEMS di www.GEMS.id.
                 </p>

@@ -43,7 +43,7 @@
       </div>
       <div style="color: white;" class="credits">
             Follow Us:
-            <a href="#" ><i class="bx bxl-instagram" style="color: white;"></i></a>
+            <a href="https://www.instagram.com/gems.pay/" ><i class="bx bxl-instagram" style="color: white;"></i></a>
             <a href="#" ><i class="bx bxl-twitter" style="color: white;"></i></a>
             <a href="#" ><i class="bx bxl-facebook" style="color: white;"></i></a>
             <a href="#" ><i class="bx bxl-youtube" style="color: white;"></i></a>

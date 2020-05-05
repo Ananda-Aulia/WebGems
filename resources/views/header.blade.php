@@ -3,7 +3,7 @@
 
       <div class="logo mr-auto">
         <div class="row">
-          <h1 class="text-light"><a href="index.html"><img src="assets/img/icon2.png" alt="icon" style="width: 35px; height: 30px;">&nbsp;<img style="height: 25px; width: 100px;" src="assets/img/logo.png" alt=""></a></h1>
+          <h1 class="text-light"><a href="/"><img src="assets/img/icon2.png" alt="icon" style="width: 35px; height: 30px; margin-left:10px;">&nbsp;<img style="height: 25px; width: 100px;" src="assets/img/logo.png" alt=""></a></h1>
         </div>
         
         <!-- Uncomment below if you prefer to use an image logo -->
@@ -14,10 +14,10 @@
         <ul>
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="#features">Features</a></li>
-          <li><a href="#about">About</a></li>
+          <!-- <li><a href="#about">About</a></li> -->
           <li><a href="#secure">Secure</a></li>
-          <li><a href="#merchant">Merchant</a></li>
-          <li><a href="#partner">Partner</a></li>
+          <li><a href="#mitra">Mitra</a></li>
+          <!-- <li><a href="#partner">Partner</a></li> -->
           <li><button type="button" class="btn btn-outline" style="color:#39afb5; border-color: white; border-radius: 10px;"><a href="#footer">Download</a></button></li>
         </ul>
       </nav><!-- .nav-menu -->
