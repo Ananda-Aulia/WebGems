@@ -37,6 +37,11 @@
                   <h4>Promo</h4>
                   <p>Nikmati setiap promo spesial yang ditawarkan.</p>
                 </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-receipt" style="color:#39afb5"></i>
+                  <h4>Payment</h4>
+                  <p>Bayar seluruh jenis tagihan anda dengan mudah dan cepat.</p>
+                </div>
               </div>
             </div>
           </div>
